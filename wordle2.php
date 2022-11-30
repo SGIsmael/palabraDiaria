@@ -12,5 +12,5 @@
             nuevaPalabra($palabra);
             header("location:wordle1.php");
         }
-    }
+    } 
 ?>
